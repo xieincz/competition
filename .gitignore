@@ -138,7 +138,7 @@ rank_*/
 .DS_Store
 *.ipynb_checkpoints
 *.tar.gz
-*.zip
+# *.zip
 *.tsv
 *.csv
 *.ckpt
